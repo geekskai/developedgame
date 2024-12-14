@@ -106,10 +106,12 @@ canvas {
 
 #left-btn {
   margin-right: 100px;
+  user-select: none;
 }
 
 #right-btn {
   margin-left: 100px;
+  user-select: none;
 }
 
 .keyboard button:active {
