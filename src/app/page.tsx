@@ -128,7 +128,7 @@ const GAME_LIST = [
   },
 ];
 
-export const MyPlugin = () => {
+const MyPlugin = () => {
   return (
     <div className="w-full bg-white shadow-lg rounded-lg min-h-[600px] p-8">
       <header className="flex justify-between items-center mb-8">
