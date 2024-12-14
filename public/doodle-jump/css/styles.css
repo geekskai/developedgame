@@ -105,11 +105,11 @@ canvas {
 }
 
 #left-btn {
-  margin-right: 10px;
+  margin-right: 100px;
 }
 
 #right-btn {
-  margin-left: 10px;
+  margin-left: 100px;
 }
 
 .keyboard button:active {
