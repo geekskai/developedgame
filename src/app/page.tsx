@@ -132,17 +132,16 @@ export const MyPlugin = () => {
   return (
     <div className="w-full bg-white shadow-lg rounded-lg min-h-[600px] p-8">
       <header className="flex justify-between items-center mb-8">
-        <h1 className="text-4xl font-title text-neutral-950">
+        <h1 className="text-4xl font-bold font-title text-neutral-950">
           unblocked games​ and google doodle games
         </h1>
         <a
           href="/google-doodle-games"
           title="Google Doodle Games"
           target="_blank"
+          className="bg-primary-500 text-primary-50 py-2 px-4 rounded-md"
         >
-          <button className="bg-primary-500 text-primary-50 py-2 px-4 rounded-md">
-            Join Now
-          </button>
+          Join Now
         </a>
       </header>
       <main>
