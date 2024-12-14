@@ -23,7 +23,7 @@ $tile-gold-glow-color: rgb(0, 0, 255);
 
 $mix-perc: 75%;
 
-$game-container-margin-top: 11px;
+$game-container-margin-top: 20px;
 $game-container-background: #f67098;
 
 $transition-speed: 100ms;
@@ -548,7 +548,7 @@ hr {
   $tile-size: ($field-width - $grid-spacing * ($grid-row-cells + 1)) /
     $grid-row-cells;
   $tile-border-radius: 3px;
-  $game-container-margin-top: 17px;
+  $game-container-margin-top: 20px;
 
   html,
   body {

@@ -220,7 +220,7 @@ hr {
   }
 }
 .game-container {
-  margin-top: 11px;
+  margin-top: 20px;
   position: relative;
   padding: 15px;
   cursor: default;
@@ -442,49 +442,42 @@ hr {
 }
 .tile.tile-2 .tile-inner {
   background: white;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 .tile.tile-4 .tile-inner {
   background: #eeeaf1;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 .tile.tile-8 .tile-inner {
   color: white;
   background: #ddd5e3;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 .tile.tile-16 .tile-inner {
   color: white;
   background: #ccc0d5;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 .tile.tile-32 .tile-inner {
   color: white;
   background: #bcabc7;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.07937),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.07937),
     inset 0 0 0 1px rgba(255, 255, 255, 0.04762);
 }
 .tile.tile-64 .tile-inner {
   color: white;
   background: #ab96b9;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.15873),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.15873),
     inset 0 0 0 1px rgba(255, 255, 255, 0.09524);
 }
 .tile.tile-128 .tile-inner {
   color: white;
   background: #9a81ab;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.2381),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.2381),
     inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
   font-size: 45px;
 }
@@ -496,8 +489,7 @@ hr {
 .tile.tile-256 .tile-inner {
   color: white;
   background: #8a6c9d;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.31746),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.31746),
     inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
   font-size: 45px;
 }
@@ -509,8 +501,7 @@ hr {
 .tile.tile-512 .tile-inner {
   color: white;
   background: #79578f;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.39683),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.39683),
     inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
   font-size: 45px;
 }
@@ -522,8 +513,7 @@ hr {
 .tile.tile-1024 .tile-inner {
   color: white;
   background: #684281;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.47619),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.47619),
     inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
   font-size: 35px;
 }
@@ -535,8 +525,7 @@ hr {
 .tile.tile-2048 .tile-inner {
   color: white;
   background: #582e74;
-  box-shadow:
-    0 0 30px 10px rgba(0, 0, 255, 0.55556),
+  box-shadow: 0 0 30px 10px rgba(0, 0, 255, 0.55556),
     inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
   font-size: 35px;
 }
@@ -766,7 +755,7 @@ hr {
   }
 
   .game-container {
-    margin-top: 17px;
+    margin-top: 20px;
     position: relative;
     padding: 10px;
     cursor: default;
@@ -1032,103 +1021,90 @@ hr {
 
 .cell-2 {
   background: white;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 
 .cell-4 {
   background: #eeeaf1;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 
 .cell-8 {
   color: white;
   background: #ddd5e3;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 
 .cell-16 {
   color: white;
   background: #ccc0d5;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0),
     inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
 
 .cell-32 {
   color: white;
   background: #bcabc7;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.07937),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.07937),
     inset 0 0 0 1px rgba(255, 255, 255, 0.04762);
 }
 
 .cell-64 {
   color: white;
   background: #ab96b9;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.15873),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.15873),
     inset 0 0 0 1px rgba(255, 255, 255, 0.09524);
 }
 
 .cell-128 {
   color: white;
   background: #9a81ab;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.2381),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.2381),
     inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
 }
 
 .cell-256 {
   color: white;
   background: #8a6c9d;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.31746),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.31746),
     inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
 }
 
 .cell-512 {
   color: white;
   background: #79578f;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.39683),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.39683),
     inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
 }
 
 .cell-1024 {
   color: white;
   background: #684281;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.47619),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.47619),
     inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
 }
 
 .cell-2048 {
   color: white;
   background: #582e74;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.55556),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.55556),
     inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
 }
 
 .cell-4096 {
   color: white;
   background: #582e74;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.6),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.6),
     inset 0 0 0 1px rgba(255, 255, 255, 0.38);
 }
 
 .cell-8192 {
   color: white;
   background: #582e74;
-  box-shadow:
-    0 0 30px 5px rgba(0, 0, 255, 0.7),
+  box-shadow: 0 0 30px 5px rgba(0, 0, 255, 0.7),
     inset 0 0 0 1px rgba(255, 255, 255, 0.43);
 }
 
