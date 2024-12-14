@@ -131,21 +131,21 @@ const GAME_LIST = [
 const MyPlugin = () => {
   return (
     <div className="w-full bg-white shadow-lg rounded-lg min-h-[600px] p-8">
-      <header className="flex justify-between items-center mb-8">
-        <h1 className="text-4xl font-bold font-title text-neutral-950">
+      <header className="flex flex-col md:flex-row justify-between items-center mb-8">
+        <h1 className="xs:text-xl md:text-4xl font-bold font-title text-neutral-950">
           unblocked games​ and google doodle games
         </h1>
         <a
           href="/google-doodle-games"
           title="Google Doodle Games"
           target="_blank"
-          className="bg-primary-500 text-primary-50 py-2 px-4 rounded-md"
+          className="bg-primary-500 text-md md:text-xl text-primary-50 py-2 px-4 rounded-md"
         >
           Join Now
         </a>
       </header>
       <main>
-        <section className="grid grid-cols-3 gap-6">
+        <section className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {GAME_LIST.map((game, index) => (
             <article key={index} className="bg-neutral-100 p-4 rounded-md">
               <Image
