@@ -663,5 +663,15 @@
     <script src="/doodle-jump/js/game.js"></script>
     <script src="/doodle-jump/js/main.js"></script>
     <script src="/doodle-jump/js/scripts.js"></script>
+
+    <script>
+      document.addEventListener(
+        "dblclick",
+        function (e) {
+          e.preventDefault();
+        },
+        { passive: false }
+      );
+    </script>
   </body>
 </html>
