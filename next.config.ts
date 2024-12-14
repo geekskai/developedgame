@@ -129,10 +129,10 @@ const nextConfig: NextConfig = {
         source: "/doodle-halloween/:path*", // 原始路径模式
         destination: "/:path*", // 重定向到实际文件位置
       },
-      {
-        source: "/doodle-jump/:path*", // 原始路径模式
-        destination: "/:path*", // 重定向到实际文件位置
-      },
+      // {
+      //   source: "/doodle-jump/:path*", // 原始路径模式
+      //   destination: "/:path*", // 重定向到实际文件位置
+      // },
       {
         source: "/doodle-pacman/:path*",
         destination: "/:path*",
