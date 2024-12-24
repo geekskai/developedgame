@@ -75,7 +75,7 @@ const GAME_LIST = [
     image: "/banner.png",
     description:
       "Released for the 2017 ICC Champions Trophy, this game let you play a simple version of cricket as an animated cricket character.",
-    link: "/cricket-games/",
+    link: "/cricket-games",
   },
   {
     title: "Garden Gnomes (2018)",
