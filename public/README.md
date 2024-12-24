@@ -2,7 +2,7 @@
 
 Welcome to the Doodle Cricket Game! Powered By Advance AI Algorithms. This is a game built for you the cricket fan! Every cricket lover can now have the most lightweight mobile cricket game at the palm of their hands! You can play the maximum number of cricket shots without having over limits. Be prepared for awesome fun!
 
-## [Play Doodle Cricket Now](https://geekskai.com)
+## [Play Doodle Cricket Now](https://www.developedgame.com)
 
 ### Features:
 
@@ -14,9 +14,9 @@ Welcome to the Doodle Cricket Game! Powered By Advance AI Algorithms. This is a 
 - Dynamic Ambiance
 - Share Score on Social Networks
 
-## [Google Doodle games](https://geekskai.com/google-doodle-games)
+## [Google Doodle games](https://www.developedgame.com/google-doodle-games)
 
-- [Doodle Baseball](https://geekskai.com/doodle-baseball)
-- [Google Pac-Man](https://geekskai.com/doodle-pacman)
-- [Doodle Champion Island Games](https://geekskai.com/champion-island)
-- [Doodle Halloween](https://geekskai.com/doodle-halloween)
+- [Doodle Baseball](https://www.developedgame.com/doodle-baseball)
+- [Google Pac-Man](https://www.developedgame.com/doodle-pacman)
+- [Doodle Champion Island Games](https://www.developedgame.com/champion-island)
+- [Doodle Halloween](https://www.developedgame.com/doodle-halloween)
